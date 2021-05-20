@@ -1,6 +1,8 @@
 SQLite JDBC Driver [![Build Status](https://travis-ci.org/xerial/sqlite-jdbc.svg?branch=master)](https://travis-ci.org/xerial/sqlite-jdbc) [![Join the chat at https://gitter.im/xerial/sqlite-jdbc](https://badges.gitter.im/xerial/sqlite-jdbc.svg)](https://gitter.im/xerial/sqlite-jdbc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ==================
 
+**Note:** See [OneCloud_README.md](OneCloud_README.md) for OneCloud specific changes
+
 SQLite JDBC is a library for accessing and creating [SQLite](http://sqlite.org) database files in Java.
 
 Our SQLiteJDBC library requires no configuration since native libraries for major OSs, including Windows, Mac OS X, Linux etc., are assembled into a single JAR (Java Archive) file. The usage is quite simple; [download](https://github.com/xerial/sqlite-jdbc/releases)
